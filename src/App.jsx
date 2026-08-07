@@ -4,7 +4,6 @@ import InputFild from "./component/InputFild";
 import { useState } from "react";
 import DataContenar from "./component/DataContenar";
 import Header from "./component/Header";
-import Update from "./component/Update";
 import { Outlet } from "react-router-dom";
 
 function App() {
