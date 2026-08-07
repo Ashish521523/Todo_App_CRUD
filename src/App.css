@@ -1,0 +1,20 @@
+.datafild {
+  margin-top: 2rem;
+}
+
+.inputfild {
+  margin-top: 3rem;
+}
+
+input {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.updatebutton {
+  margin-left: 1rem;
+}
+
+.updatebutton1 {
+  color: white;
+  text-decoration: none;
+}
